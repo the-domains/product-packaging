@@ -1,19 +1,4 @@
-name: Product Packaging
-favicon: null
-layout_spectrum: 0.07739744428545237
 typography_spectrum: 0.34956700750626624
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#B8B42D'
@@ -25,4 +10,20 @@ color:
   lightness: 0.98422308312729
   saturation: 0.8626534298527986
   rhythmicContrast: 0.302095505874604
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.07739744428545237
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Product Packaging
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+description: one grocery store at a time
 purpose: []
